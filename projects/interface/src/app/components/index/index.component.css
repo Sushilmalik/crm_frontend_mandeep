@@ -1,0 +1,10 @@
+.imgs{
+    height: 60vh;
+    width: 80%;
+
+}
+
+.green-theme {
+    filter: hue-rotate(85deg); /* Adjust hue to shift colors to green */
+  }
+
